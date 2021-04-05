@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MyBatis-06" />
+        <module name="MyBatis-07" />
+        <module name="MyBatis-08" />
+        <module name="MyBatis-09" />
+        <module name="MyBatis-01" />
+        <module name="MyBatis-02" />
+        <module name="MyBatis-03" />
+        <module name="MyBatis-04" />
+        <module name="MyBatis-05" />
+        <module name="Spring-cwlin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Cookie_Session-cwlin" target="1.5" />
+      <module name="Filter" target="15" />
+      <module name="Filter-cwlin" target="15" />
+      <module name="JSP-cwlin" target="15" />
+      <module name="Maven-cwlin" target="1.7" />
+      <module name="MyBatis-01" target="15" />
+      <module name="MyBatis-02" target="15" />
+      <module name="MyBatis-03" target="15" />
+      <module name="MyBatis-04" target="15" />
+      <module name="MyBatis-05" target="15" />
+      <module name="MyBatis-06" target="15" />
+      <module name="MyBatis-07" target="15" />
+      <module name="MyBatis-08" target="15" />
+      <module name="MyBatis-09" target="15" />
+      <module name="MyBatis-cwlin" target="15" />
+      <module name="Mybatis-cwlin" target="15" />
+      <module name="request" target="1.7" />
+      <module name="response" target="1.7" />
+      <module name="Servlet-01" target="1.7" />
+      <module name="Servlet-02" target="1.7" />
+      <module name="Servlet-cwlin" target="15" />
+      <module name="Session_Cookie-cwlin" target="1.7" />
+      <module name="Spring-cwlin" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
