@@ -1,8 +1,2 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Datasource local storage ignored files
-/../../../../../:\硕士研究\Java学习历程\JavaFrame\.idea/dataSources/
-/dataSources.local.xml
-# Editor-based HTTP Client requests
-/httpRequests/
+# Project exclude paths
+/MyBatis-cwlin/MyBatis-01/target/
