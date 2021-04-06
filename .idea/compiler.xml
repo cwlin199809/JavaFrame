@@ -7,16 +7,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="MyBatis-01" />
+        <module name="MyBatis-02" />
+        <module name="MyBatis-03" />
+        <module name="Spring-01-IOC1" />
+        <module name="MyBatis-04" />
+        <module name="MyBatis-05" />
         <module name="MyBatis-06" />
         <module name="MyBatis-07" />
         <module name="MyBatis-08" />
         <module name="MyBatis-09" />
-        <module name="MyBatis-01" />
-        <module name="MyBatis-02" />
-        <module name="MyBatis-03" />
-        <module name="MyBatis-04" />
-        <module name="MyBatis-05" />
-        <module name="Spring-cwlin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -42,6 +42,7 @@
       <module name="Servlet-02" target="1.7" />
       <module name="Servlet-cwlin" target="15" />
       <module name="Session_Cookie-cwlin" target="1.7" />
+      <module name="Spring-01-IOC1" target="15" />
       <module name="Spring-cwlin" target="15" />
     </bytecodeTargetLevel>
   </component>

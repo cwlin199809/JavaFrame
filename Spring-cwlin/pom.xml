@@ -6,7 +6,12 @@
 
     <groupId>com.cwlin</groupId>
     <artifactId>Spring-cwlin</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>Spring-01-IOC1</module>
+        <module>Spring-02-HelloSpring</module>
+    </modules>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
