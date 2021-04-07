@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="MyBatis-01" />
         <module name="MyBatis-02" />
+        <module name="Spring-02-HelloSpring" />
         <module name="MyBatis-03" />
         <module name="Spring-01-IOC1" />
         <module name="MyBatis-04" />
@@ -43,6 +44,7 @@
       <module name="Servlet-cwlin" target="15" />
       <module name="Session_Cookie-cwlin" target="1.7" />
       <module name="Spring-01-IOC1" target="15" />
+      <module name="Spring-02-HelloSpring" target="15" />
       <module name="Spring-cwlin" target="15" />
     </bytecodeTargetLevel>
   </component>
