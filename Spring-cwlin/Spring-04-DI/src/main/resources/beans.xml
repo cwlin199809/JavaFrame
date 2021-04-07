@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="address" class="com.cwlin.pojo.Address"/>
+    <bean id="student" class="com.cwlin.pojo.Student">
+        <!--1. 普通值注入, value-->
+        <property name="name" value="cwlin"/>
+        <!--2. Bean注入, ref-->
+        <property name="address" ref="address"/>
+        <!--3. 数组注入-->
+        <property name="books">
+            <array>
+                <value>红楼梦</value>
+                <value>三国演义</value>
+                <value>水浒传</value>
+                <value>西游记</value>
+            </array>
+        </property>
+        <!--4. List注入-->
+        <property name="hobby">
+            <list>
+                <value>敲代码</value>
+                <value>听音乐</value>
+                <value>看电影</value>
+                <value>谈恋爱</value>
+            </list>
+        </property>
+        <!--5. Map注入-->
+        <property name="card">
+            <map>
+                <entry key="身份证" value="147852963123456789"/>
+                <entry key="银行卡" value="741852963987654321"/>
+            </map>
+        </property>
+        <!--6. Set注入-->
+        <property name="games">
+            <set>
+                <value>LOL</value>
+                <value>COC</value>
+                <value>BOB</value>
+            </set>
+        </property>
+        <!--7. Null注入-->
+        <property name="wife">
+            <null/>
+        </property>
+        <!--8. Properties注入-->
+        <property name="info">
+            <props>
+                <prop key="driver">jdbc</prop>
+                <prop key="name">root</prop>
+                <prop key="password">123456</prop>
+            </props>
+        </property>
+    </bean>
+</beans>

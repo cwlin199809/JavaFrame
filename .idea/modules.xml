@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/MyBatis-cwlin/MyBatis-cwlin.iml" filepath="$PROJECT_DIR$/MyBatis-cwlin/MyBatis-cwlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-01-IOC1/Spring-01-IOC1.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-01-IOC1/Spring-01-IOC1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-02-HelloSpring/Spring-02-HelloSpring.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-02-HelloSpring/Spring-02-HelloSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-03-IOC2/Spring-03-IOC2.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-03-IOC2/Spring-03-IOC2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-04-DI/Spring-04-DI.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-04-DI/Spring-04-DI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-cwlin.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-cwlin.iml" />
     </modules>
   </component>

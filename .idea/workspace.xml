@@ -5,14 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-01-IOC1/src/main/resources/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-02-HelloSpring/src/main/java/com/cwlin/pojo/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-02-HelloSpring/src/main/resources/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-02-HelloSpring/src/test/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-03-IOC2/Spring-03-IOC2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-03-IOC2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-03-IOC2/src/main/java/com/cwlin/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-03-IOC2/src/main/java/com/cwlin/pojo/UserNone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-03-IOC2/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-03-IOC2/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-03-IOC2/src/main/resources/beans2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-03-IOC2/src/test/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-04-DI/Spring-04-DI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-04-DI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-04-DI/src/main/java/com/cwlin/pojo/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-04-DI/src/main/java/com/cwlin/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-04-DI/src/main/java/com/cwlin/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-04-DI/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-04-DI/src/main/resources/userBeans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-04-DI/src/test/java/MyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_caches_mybatis_ehcache_1_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_caches_mybatis_ehcache_1_2_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_18.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_5.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-cwlin/Spring-01-IOC1/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-01-IOC1/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-cwlin/Spring-01-IOC1/Spring-01-IOC1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-01-IOC1/Spring-01-IOC1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-cwlin/Spring-02-HelloSpring/Spring-02-HelloSpring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-02-HelloSpring/Spring-02-HelloSpring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-cwlin/Spring-cwlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-cwlin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-cwlin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-cwlin/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +75,6 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\Java\apache-maven-3.6.3\repo" />
-        <option name="mavenHome" value="D:\Java\apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\Java\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -71,25 +104,61 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring-cwlin/Spring-04-DI/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.14765784" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java学习历程\JavaFrame\Spring-cwlin\Spring-04-DI\src\main\resources" />
+      <recent name="E:\Java学习历程\JavaFrame\Spring-cwlin\Spring-03-IOC2\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyTest.test1">
+    <configuration name="MyTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <module name="Spring-04-DI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <module name="Spring-03-IOC2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring-04-DI" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyTest.test1" />
+        <item itemvalue="Application.MyTest (1)" />
+        <item itemvalue="Application.MyTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
