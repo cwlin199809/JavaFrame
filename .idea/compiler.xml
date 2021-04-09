@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Spring-03-IOC2" />
+        <module name="Spring-05-Autowired" />
         <module name="MyBatis-06" />
         <module name="MyBatis-07" />
         <module name="MyBatis-08" />
@@ -49,6 +50,7 @@
       <module name="Spring-02-HelloSpring" target="15" />
       <module name="Spring-03-IOC2" target="15" />
       <module name="Spring-04-DI" target="15" />
+      <module name="Spring-05-Autowired" target="15" />
       <module name="Spring-cwlin" target="15" />
     </bytecodeTargetLevel>
   </component>

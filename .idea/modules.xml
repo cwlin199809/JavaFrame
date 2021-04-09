@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-02-HelloSpring/Spring-02-HelloSpring.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-02-HelloSpring/Spring-02-HelloSpring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-03-IOC2/Spring-03-IOC2.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-03-IOC2/Spring-03-IOC2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-04-DI/Spring-04-DI.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-04-DI/Spring-04-DI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-05-Autowired/Spring-05-Autowired.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-05-Autowired/Spring-05-Autowired.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-cwlin.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-cwlin.iml" />
     </modules>
   </component>
