@@ -4,15 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.04.07 21：32">
-      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-05-Autowired/Spring-05-Autowired.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-05-Autowired/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-05-Autowired/src/main/java/com/cwlin/pojo/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-05-Autowired/src/main/java/com/cwlin/pojo/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-05-Autowired/src/main/java/com/cwlin/pojo/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-05-Autowired/src/main/resources/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-05-Autowired/src/test/java/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-cwlin/note.md" afterDir="false" />
+    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.04.09 13：37">
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-06-Annotation/Spring-06-Annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-06-Annotation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-06-Annotation/src/main/java/com/cwlin/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-06-Annotation/src/main/java/com/cwlin/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-06-Annotation/src/main/java/com/cwlin/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-06-Annotation/src/main/java/com/cwlin/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-06-Annotation/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-06-Annotation/src/test/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-07-AppConfig/Spring-07-AppConfig.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-07-AppConfig/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-07-AppConfig/src/main/java/com/cwlin/config/CwlinConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-07-AppConfig/src/main/java/com/cwlin/config/CwlinConfig2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-07-AppConfig/src/main/java/com/cwlin/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-07-AppConfig/src/test/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-08-Proxy/Spring-08-Proxy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-08-Proxy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-08-Proxy/src/main/java/com/cwlin/demo01/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-08-Proxy/src/main/java/com/cwlin/demo01/Host.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-08-Proxy/src/main/java/com/cwlin/demo01/Proxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-08-Proxy/src/main/java/com/cwlin/demo01/Rent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
@@ -35,6 +47,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_5.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-cwlin/Spring-05-Autowired/target/classes/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-cwlin/Spring-05-Autowired/target/classes/com/cwlin/pojo/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-cwlin/Spring-05-Autowired/target/classes/com/cwlin/pojo/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-cwlin/Spring-05-Autowired/target/classes/com/cwlin/pojo/People.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-cwlin/Spring-05-Autowired/target/test-classes/MyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-cwlin/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-cwlin/note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spring-cwlin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-cwlin/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +63,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -63,8 +82,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\Java\apache-maven-3.6.3\repo" />
-        <option name="userSettingsFile" value="D:\Java\apache-maven-3.6.3\conf\settings.xml" />
+        <option name="localRepository" value="D:\maven-3.6.3\repo" />
+        <option name="mavenHome" value="D:\maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -119,21 +139,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Spring-05-Autowired" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.MyTest.test1" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -153,7 +158,12 @@
       <workItem from="1617674545636" duration="816000" />
       <workItem from="1617732022251" duration="2599000" />
       <workItem from="1617769248286" duration="3358000" />
-      <workItem from="1617932555484" duration="7641000" />
+      <workItem from="1617932555484" duration="7942000" />
+      <workItem from="1618041048812" duration="23000" />
+      <workItem from="1618041084013" duration="88000" />
+      <workItem from="1618041185203" duration="600000" />
+      <workItem from="1618041875346" duration="2332000" />
+      <workItem from="1618054970703" duration="4773000" />
     </task>
     <task id="LOCAL-00001" summary="2021.04.05 18：40">
       <created>1617619251321</created>
@@ -183,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617802339664</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2021.04.09 13：37">
+      <created>1617946686262</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617946686262</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +227,7 @@
     <MESSAGE value="2021.04.07 02：50" />
     <MESSAGE value="2021.04.07 21：31" />
     <MESSAGE value="2021.04.07 21：32" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.04.07 21：32" />
+    <MESSAGE value="2021.04.09 13：37" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.04.09 13：37" />
   </component>
 </project>

@@ -17,6 +17,9 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-03-IOC2/Spring-03-IOC2.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-03-IOC2/Spring-03-IOC2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-04-DI/Spring-04-DI.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-04-DI/Spring-04-DI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-05-Autowired/Spring-05-Autowired.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-05-Autowired/Spring-05-Autowired.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-06-Annotation/Spring-06-Annotation.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-06-Annotation/Spring-06-Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-07-AppConfig/Spring-07-AppConfig.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-07-AppConfig/Spring-07-AppConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-08-Proxy/Spring-08-Proxy.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-08-Proxy/Spring-08-Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-cwlin.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-cwlin.iml" />
     </modules>
   </component>
