@@ -11,6 +11,7 @@
         <module name="Spring-06-Annotation" />
         <module name="Spring-05-Autowired" />
         <module name="MyBatis-06" />
+        <module name="Spring-10-MyBatis" />
         <module name="MyBatis-07" />
         <module name="MyBatis-08" />
         <module name="MyBatis-09" />
@@ -23,6 +24,7 @@
         <module name="MyBatis-04" />
         <module name="MyBatis-05" />
         <module name="Spring-04-DI" />
+        <module name="Spring-09-AOP" />
         <module name="Spring-08-Proxy" />
       </profile>
     </annotationProcessing>
@@ -57,6 +59,9 @@
       <module name="Spring-06-Annotation" target="15" />
       <module name="Spring-07-AppConfig" target="15" />
       <module name="Spring-08-Proxy" target="15" />
+      <module name="Spring-09-AOP" target="15" />
+      <module name="Spring-09-MyBatis" target="15" />
+      <module name="Spring-10-MyBatis" target="15" />
       <module name="Spring-cwlin" target="15" />
     </bytecodeTargetLevel>
   </component>

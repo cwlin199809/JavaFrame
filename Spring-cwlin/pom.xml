@@ -17,6 +17,8 @@
         <module>Spring-06-Annotation</module>
         <module>Spring-07-AppConfig</module>
         <module>Spring-08-Proxy</module>
+        <module>Spring-09-AOP</module>
+        <module>Spring-10-MyBatis</module>
     </modules>
 
     <dependencies>
