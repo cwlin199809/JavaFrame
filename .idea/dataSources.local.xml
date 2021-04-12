@@ -15,7 +15,6 @@
             <name qname="@" />
             <name qname="jdbcstudy" />
             <name qname="mybatis" />
-            <name qname="mysql" />
             <name qname="school" />
           </node>
         </introspection-scope>
