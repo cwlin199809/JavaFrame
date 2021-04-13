@@ -23,6 +23,7 @@
         <module name="Spring-01-IOC1" />
         <module name="MyBatis-04" />
         <module name="MyBatis-05" />
+        <module name="Spring-11-Transaction" />
         <module name="Spring-04-DI" />
         <module name="Spring-09-AOP" />
         <module name="Spring-08-Proxy" />
@@ -62,6 +63,7 @@
       <module name="Spring-09-AOP" target="15" />
       <module name="Spring-09-MyBatis" target="15" />
       <module name="Spring-10-MyBatis" target="15" />
+      <module name="Spring-11-Transaction" target="15" />
       <module name="Spring-cwlin" target="15" />
     </bytecodeTargetLevel>
   </component>

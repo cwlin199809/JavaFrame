@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-08-Proxy/Spring-08-Proxy.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-08-Proxy/Spring-08-Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-09-AOP/Spring-09-AOP.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-09-AOP/Spring-09-AOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-10-MyBatis/Spring-10-MyBatis.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-10-MyBatis/Spring-10-MyBatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-11-Transaction/Spring-11-Transaction.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-11-Transaction/Spring-11-Transaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-cwlin.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-cwlin.iml" />
     </modules>
   </component>
