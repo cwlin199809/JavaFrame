@@ -16,6 +16,7 @@
         <module name="MyBatis-08" />
         <module name="MyBatis-09" />
         <module name="Spring-07-AppConfig" />
+        <module name="SpringMVC-01-Servlet" />
         <module name="MyBatis-01" />
         <module name="MyBatis-02" />
         <module name="Spring-02-HelloSpring" />
@@ -26,6 +27,7 @@
         <module name="Spring-11-Transaction" />
         <module name="Spring-04-DI" />
         <module name="Spring-09-AOP" />
+        <module name="SpringMVC-02-HelloMVC" />
         <module name="Spring-08-Proxy" />
       </profile>
     </annotationProcessing>
@@ -65,6 +67,9 @@
       <module name="Spring-10-MyBatis" target="15" />
       <module name="Spring-11-Transaction" target="15" />
       <module name="Spring-cwlin" target="15" />
+      <module name="SpringMVC" target="15" />
+      <module name="SpringMVC-01-Servlet" target="15" />
+      <module name="SpringMVC-02-HelloMVC" target="15" />
     </bytecodeTargetLevel>
   </component>
 </project>
