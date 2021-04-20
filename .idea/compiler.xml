@@ -67,9 +67,9 @@
       <module name="Spring-10-MyBatis" target="15" />
       <module name="Spring-11-Transaction" target="15" />
       <module name="Spring-cwlin" target="15" />
-      <module name="SpringMVC" target="15" />
       <module name="SpringMVC-01-Servlet" target="15" />
       <module name="SpringMVC-02-HelloMVC" target="15" />
+      <module name="SpringMVC-cwlin" target="15" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -24,9 +24,9 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-10-MyBatis/Spring-10-MyBatis.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-10-MyBatis/Spring-10-MyBatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-11-Transaction/Spring-11-Transaction.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-11-Transaction/Spring-11-Transaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-cwlin.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-cwlin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../SpringMVC/SpringMVC.iml" filepath="$PROJECT_DIR$/../SpringMVC/SpringMVC.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../SpringMVC/SpringMVC-01-Servlet/SpringMVC-01-Servlet.iml" filepath="$PROJECT_DIR$/../SpringMVC/SpringMVC-01-Servlet/SpringMVC-01-Servlet.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../SpringMVC/SpringMVC-02-HelloMVC/SpringMVC-02-HelloMVC.iml" filepath="$PROJECT_DIR$/../SpringMVC/SpringMVC-02-HelloMVC/SpringMVC-02-HelloMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-01-Servlet/SpringMVC-01-Servlet.iml" filepath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-01-Servlet/SpringMVC-01-Servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/SpringMVC-02-HelloMVC.iml" filepath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/SpringMVC-02-HelloMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-cwlin.iml" filepath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-cwlin.iml" />
     </modules>
   </component>
 </project>

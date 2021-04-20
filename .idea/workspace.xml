@@ -9,7 +9,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.04.20 21：10">
+    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.04.21 00：08">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-01-Servlet/SpringMVC-01-Servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/SpringMVC-02-HelloMVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-cwlin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,8 +82,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring-cwlin/Spring-11-Transaction/src/main/resources" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SpringMVC-cwlin/pom.xml" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.14765784" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -89,6 +96,9 @@
       <recent name="E:\Java学习历程\JavaFrame\Spring-cwlin\Spring-10-MyBatis\src\main\java" />
       <recent name="E:\Java学习历程\JavaFrame\Spring-cwlin\Spring-08-Proxy\src\main\java\com\cwlin\demo03" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java学习历程\JavaFrame" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.cwlin.dao" />
       <recent name="com.cwlin.diy" />
@@ -98,11 +108,23 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 10.0.2" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.2" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="SpringMVC-02-HelloMVC:war exploded">
+        <artifact name="SpringMVC-02-HelloMVC:war">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
@@ -182,7 +204,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="SpringMVC-02-HelloMVC:war exploded" />
+          <artifact name="SpringMVC-02-HelloMVC:war" />
         </option>
       </method>
     </configuration>
@@ -220,7 +242,8 @@
       <workItem from="1618570404302" duration="830000" />
       <workItem from="1618838246585" duration="1877000" />
       <workItem from="1618905571067" duration="7027000" />
-      <workItem from="1618934864875" duration="34000" />
+      <workItem from="1618934864875" duration="1064000" />
+      <workItem from="1618935963102" duration="803000" />
     </task>
     <task id="LOCAL-00001" summary="2021.04.05 18：40">
       <created>1617619251321</created>
@@ -320,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618924229540</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2021.04.21 00：08">
+      <created>1618934920232</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1618934920232</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,6 +386,7 @@
     <MESSAGE value="2021.04.13 21：04" />
     <MESSAGE value="2021.04.20 21：09" />
     <MESSAGE value="2021.04.20 21：10" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.04.20 21：10" />
+    <MESSAGE value="2021.04.21 00：08" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.04.21 00：08" />
   </component>
 </project>
