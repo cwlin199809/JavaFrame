@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="SpringMVC-02-HelloMVC:war exploded" />
+      <artifact name="SpringMVC-04-Controller:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,22 +10,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.04.21 00：08">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMVC_03_Annotation_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMVC_03_Annotation_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/SpringMVC-03-Annotation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/src/main/java/com/cwlin/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/src/main/resources/springmvc-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/web/WEB-INF/hello.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMVC_04_Controller_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMVC_04_Controller_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-04-Controller/SpringMVC-04-Controller.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-04-Controller/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-04-Controller/src/main/java/com/cwlin/controller/ControllerTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-04-Controller/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-04-Controller/web/WEB-INF/jsp/test.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-04-Controller/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-04-Controller/web/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_5_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_5_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_servlet_jsp_jakarta_servlet_jsp_api_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_servlet_jsp_jakarta_servlet_jsp_api_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jstl_jstl_api_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jstl_jstl_api_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_caches_mybatis_ehcache_1_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_caches_mybatis_ehcache_1_2_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_18.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_5.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_0_05__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_0_05__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_0_09__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_0_09__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_0_45__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_0_45__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/src/main/resources/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/src/main/resources/springmvc-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-cwlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-cwlin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/SpringMVC-02-HelloMVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/SpringMVC-02-HelloMVC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/SpringMVC-03-Annotation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/SpringMVC-03-Annotation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/src/main/java/com/cwlin/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/src/main/java/com/cwlin/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/web/WEB-INF/hello.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/web/WEB-INF/jsp/hello.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringMVC-cwlin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC-cwlin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_02_HelloMVC_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_02_HelloMVC_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +95,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\Java\apache-maven-3.6.3\repo" />
-        <option name="mavenHome" value="D:\Java\apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="D:\Java\apache-maven-3.6.3\conf\settings.xml" />
+        <option name="localRepository" value="D:\maven-3.6.3\repo" />
+        <option name="mavenHome" value="D:\maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -105,6 +138,7 @@
       <recent name="E:\Java学习历程\JavaFrame\Spring-cwlin\Spring-08-Proxy\src\main\java\com\cwlin\demo03" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-03-Annotation\web\WEB-INF\jsp" />
       <recent name="E:\Java学习历程\JavaFrame" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -116,13 +150,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,9 +166,9 @@
     <configuration name="Tomcat 9.0.44" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.44" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="SpringMVC-02-HelloMVC:war exploded">
+        <artifact name="SpringMVC-04-Controller:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/SpringMVC_02_HelloMVC_war_exploded" />
+            <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
@@ -210,7 +246,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="SpringMVC-02-HelloMVC:war exploded" />
+          <artifact name="SpringMVC-04-Controller:war exploded" />
         </option>
       </method>
     </configuration>
@@ -252,6 +288,7 @@
       <workItem from="1618935963102" duration="803000" />
       <workItem from="1618976889576" duration="296000" />
       <workItem from="1618977229085" duration="4492000" />
+      <workItem from="1619004767245" duration="3324000" />
     </task>
     <task id="LOCAL-00001" summary="2021.04.05 18：40">
       <created>1617619251321</created>
