@@ -17,6 +17,7 @@
         <module name="MyBatis-09" />
         <module name="Spring-07-AppConfig" />
         <module name="SpringMVC-01-Servlet" />
+        <module name="SpringMVC-03-Annotation" />
         <module name="MyBatis-01" />
         <module name="MyBatis-02" />
         <module name="Spring-02-HelloSpring" />
@@ -69,6 +70,7 @@
       <module name="Spring-cwlin" target="15" />
       <module name="SpringMVC-01-Servlet" target="15" />
       <module name="SpringMVC-02-HelloMVC" target="15" />
+      <module name="SpringMVC-03-Annotation" target="15" />
       <module name="SpringMVC-cwlin" target="15" />
     </bytecodeTargetLevel>
   </component>

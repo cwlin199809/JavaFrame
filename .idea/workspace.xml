@@ -10,40 +10,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.04.21 00：08">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SpringMVC_02_HelloMVC_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMVC_02_HelloMVC_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_5_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_5_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_servlet_jsp_jakarta_servlet_jsp_api_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_servlet_jsp_jakarta_servlet_jsp_api_3_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jstl_jstl_api_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jstl_jstl_api_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_23.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_caches_mybatis_ehcache_1_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_caches_mybatis_ehcache_1_2_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_18.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMVC_03_Annotation_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMVC_03_Annotation_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/SpringMVC-03-Annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/src/main/java/com/cwlin/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/web/WEB-INF/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-cwlin/Spring-10-MyBatis/Spring-10-MyBatis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-cwlin/Spring-10-MyBatis/Spring-10-MyBatis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/src/main/resources/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-cwlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-cwlin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_02_HelloMVC_war/SpringMVC-02-HelloMVC_war.war" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_02_HelloMVC_war/SpringMVC-02-HelloMVC_war.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_02_HelloMVC_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_02_HelloMVC_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC-cwlin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC-cwlin/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +62,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\maven-3.6.3\repo" />
-        <option name="userSettingsFile" value="D:\maven-3.6.3\conf\settings.xml" />
+        <option name="localRepository" value="D:\Java\apache-maven-3.6.3\repo" />
+        <option name="mavenHome" value="D:\Java\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Java\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -133,6 +116,17 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.44" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.44" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -256,6 +250,8 @@
       <workItem from="1618905571067" duration="7027000" />
       <workItem from="1618934864875" duration="1064000" />
       <workItem from="1618935963102" duration="803000" />
+      <workItem from="1618976889576" duration="296000" />
+      <workItem from="1618977229085" duration="4492000" />
     </task>
     <task id="LOCAL-00001" summary="2021.04.05 18：40">
       <created>1617619251321</created>
@@ -362,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618934920232</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2021.04.21 00：54">
+      <created>1618937710029</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1618937710029</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,6 +402,7 @@
     <MESSAGE value="2021.04.20 21：09" />
     <MESSAGE value="2021.04.20 21：10" />
     <MESSAGE value="2021.04.21 00：08" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.04.21 00：08" />
+    <MESSAGE value="2021.04.21 00：54" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.04.21 00：54" />
   </component>
 </project>
