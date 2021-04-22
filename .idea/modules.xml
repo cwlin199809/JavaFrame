@@ -28,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/SpringMVC-02-HelloMVC.iml" filepath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/SpringMVC-02-HelloMVC.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/SpringMVC-03-Annotation.iml" filepath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-03-Annotation/SpringMVC-03-Annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-04-Controller/SpringMVC-04-Controller.iml" filepath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-04-Controller/SpringMVC-04-Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-05-JSON/SpringMVC-05-JSON.iml" filepath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-05-JSON/SpringMVC-05-JSON.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-cwlin.iml" filepath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-cwlin.iml" />
     </modules>
   </component>

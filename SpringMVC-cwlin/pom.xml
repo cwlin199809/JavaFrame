@@ -13,9 +13,15 @@
         <module>SpringMVC-02-HelloMVC</module>
         <module>SpringMVC-03-Annotation</module>
         <module>SpringMVC-04-Controller</module>
+        <module>SpringMVC-05-JSON</module>
     </modules>
 
     <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.18</version>
+        </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
