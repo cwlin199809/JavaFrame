@@ -4,9 +4,6 @@
     <root id="root">
       <element id="javaee-facet-resources" facet="SpringMVC-05-JSON/web/Web" />
       <element id="directory" name="WEB-INF">
-        <element id="directory" name="classes">
-          <element id="module-output" name="SpringMVC-05-JSON" />
-        </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.3.5" />
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.3.5" />
@@ -22,6 +19,13 @@
           <element id="library" level="project" name="Maven: javax.servlet.jsp:jsp-api:2.1" />
           <element id="library" level="project" name="Maven: javax.servlet.jsp.jstl:jstl-api:1.2" />
           <element id="library" level="project" name="Maven: junit:junit:4.12" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.12.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.12.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.12.2" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.76" />
+        </element>
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpringMVC-05-JSON" />
         </element>
       </element>
     </root>
