@@ -29,6 +29,7 @@
         <module name="MyBatis-09" />
         <module name="SpringMVC-04-Controller" />
         <module name="SpringMVC-03-Annotation" />
+        <module name="SpringMVC-06-Ajax" />
         <module name="Spring-02-HelloSpring" />
         <module name="Spring-09-AOP" />
         <module name="SpringMVC-02-HelloMVC" />
@@ -75,6 +76,7 @@
       <module name="SpringMVC-03-Annotation" target="15" />
       <module name="SpringMVC-04-Controller" target="15" />
       <module name="SpringMVC-05-JSON" target="15" />
+      <module name="SpringMVC-06-Ajax" target="15" />
       <module name="SpringMVC-cwlin" target="15" />
     </bytecodeTargetLevel>
   </component>
