@@ -2,41 +2,40 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="SpringMVC-06-Ajax:war exploded" />
+      <artifact name="SpringMVC-08-File:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.04.23 17：36">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMVC_06_Ajax_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-06-Ajax/SpringMVC-06-Ajax.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-06-Ajax/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-06-Ajax/src/main/java/com/cwlin/controller/AjaxController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-06-Ajax/src/main/java/com/cwlin/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-06-Ajax/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-06-Ajax/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-06-Ajax/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-06-Ajax/web/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-06-Ajax/web/static/js/jquery-3.6.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-06-Ajax/web/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-06-Ajax/web/test2.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.05.16 00：34">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMVC_07_Interceptor_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMVC_07_Interceptor_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMVC_08_File_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMVC_08_File_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-07-Interceptor/SpringMVC-07-Interceptor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-07-Interceptor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-07-Interceptor/src/main/java/com/cwlin/config/LoginInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-07-Interceptor/src/main/java/com/cwlin/config/MyInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-07-Interceptor/src/main/java/com/cwlin/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-07-Interceptor/src/main/java/com/cwlin/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-07-Interceptor/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-07-Interceptor/web/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-07-Interceptor/web/WEB-INF/jsp/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-07-Interceptor/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-07-Interceptor/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-08-File/SpringMVC-08-File.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-08-File/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-08-File/src/main/java/com/cwlin/controller/FileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-08-File/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-08-File/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-08-File/web/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_0_05_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_0_05__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_0_09_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_0_09__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_0_45_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_0_45__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_0_55_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_0_55__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_14_22_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_14_22__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_22_42_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_4_21_22_42__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringMVC-cwlin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC-cwlin/pom.xml" afterDir="false" />
     </list>
@@ -51,8 +50,8 @@
         <option value="Interface" />
         <option value="spring-beans.schema" />
         <option value="HTML File" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -106,19 +105,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-06-Ajax/web/static" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-08-File/src/main/resources" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.14765784" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-08-File\src\main\resources" />
+      <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-07-Interceptor\src\main\resources" />
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-06-Ajax\web\static" />
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-05-JSON\src\main\resources" />
       <recent name="E:\Java学习历程\JavaFrame\Spring-cwlin\Spring-11-Transaction\src\main\resources" />
-      <recent name="E:\Java学习历程\JavaFrame\Spring-cwlin\Spring-11-Transaction\src\main\java\com" />
-      <recent name="E:\Java学习历程\JavaFrame\Spring-cwlin\Spring-10-MyBatis\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-06-Ajax\web\static\js" />
@@ -127,21 +126,23 @@
       <recent name="E:\Java学习历程\JavaFrame" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cwlin.config" />
       <recent name="com.cwlin.controller" />
       <recent name="com.cwlin.dao" />
       <recent name="com.cwlin.diy" />
       <recent name="com.cwlin.service" />
-      <recent name="com.cwlin.demo04" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -149,7 +150,7 @@
     <configuration name="Tomcat 9.0.44" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.44" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="SpringMVC-06-Ajax:war exploded">
+        <artifact name="SpringMVC-08-File:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
@@ -229,7 +230,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="SpringMVC-06-Ajax:war exploded" />
+          <artifact name="SpringMVC-08-File:war exploded" />
         </option>
       </method>
     </configuration>
@@ -288,7 +289,8 @@
       <workItem from="1621084960356" duration="1446000" />
       <workItem from="1621087761794" duration="1733000" />
       <workItem from="1621089616353" duration="52000" />
-      <workItem from="1621089825996" duration="6323000" />
+      <workItem from="1621089825996" duration="6833000" />
+      <workItem from="1621258550075" duration="10380000" />
     </task>
     <task id="LOCAL-00001" summary="2021.04.05 18：40">
       <created>1617619251321</created>
@@ -458,7 +460,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619170604172</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="2021.05.16 00：32">
+      <created>1621096410200</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1621096410200</updated>
+    </task>
+    <task id="LOCAL-00026" summary="2021.05.16 00：34">
+      <created>1621096481536</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1621096481536</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +519,9 @@
     <MESSAGE value="2021.04.23 13：35" />
     <MESSAGE value="2021.04.23 17：35" />
     <MESSAGE value="2021.04.23 17：36" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.04.23 17：36" />
+    <MESSAGE value="2021.05.16 00：32" />
+    <MESSAGE value="2021.05.16 00：34" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.05.16 00：34" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -8,8 +8,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Spring-03-IOC2" />
+        <module name="SpringMVC-08-File" />
         <module name="Spring-05-Autowired" />
         <module name="Spring-10-MyBatis" />
+        <module name="SpringMVC-07-Interceptor" />
         <module name="Spring-07-AppConfig" />
         <module name="SpringMVC-01-Servlet" />
         <module name="MyBatis-01" />
@@ -77,6 +79,8 @@
       <module name="SpringMVC-04-Controller" target="15" />
       <module name="SpringMVC-05-JSON" target="15" />
       <module name="SpringMVC-06-Ajax" target="15" />
+      <module name="SpringMVC-07-Interceptor" target="15" />
+      <module name="SpringMVC-08-File" target="15" />
       <module name="SpringMVC-cwlin" target="15" />
     </bytecodeTargetLevel>
   </component>

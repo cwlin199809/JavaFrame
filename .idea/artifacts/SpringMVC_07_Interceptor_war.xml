@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringMVC-07-Interceptor:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringMVC_07_Interceptor_war</output-path>
+    <root id="archive" name="SpringMVC-07-Interceptor_war.war">
+      <element id="artifact" artifact-name="SpringMVC-07-Interceptor:war exploded" />
+    </root>
+  </artifact>
+</component>
