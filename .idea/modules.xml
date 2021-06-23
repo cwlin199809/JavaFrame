@@ -33,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-07-Interceptor/SpringMVC-07-Interceptor.iml" filepath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-07-Interceptor/SpringMVC-07-Interceptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-08-File/SpringMVC-08-File.iml" filepath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-08-File/SpringMVC-08-File.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-cwlin.iml" filepath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-cwlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vue-cwlin/Vue-cwlin.iml" filepath="$PROJECT_DIR$/Vue-cwlin/Vue-cwlin.iml" />
     </modules>
   </component>
 </project>
