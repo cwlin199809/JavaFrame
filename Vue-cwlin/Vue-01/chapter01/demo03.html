@@ -8,9 +8,9 @@
 
 <!--view层: 模板-->
 <div id="app">
-    <span v-bind:title="message">
-        鼠标悬停几秒钟查看此处动态绑定的提示信息！
-    </span>
+    <li v-for="(item,index) in items">
+        {{item.message}}---{{index}} <!--下标-->
+    </li>
 </div>
 
 <!--1.导入vue.js-->
@@ -20,7 +20,11 @@
         el: "#app",
         //model层: 数据
         data: {
-            message: '页面加载于 ' + new Date().toLocaleString()
+            items: [
+                {message: "cwlin学Java"},
+                {message: "cwlin学Vue"},
+                {message: "cwlin学后端"},
+            ]
         }
     });
 </script>

@@ -8,9 +8,7 @@
 
 <!--view层: 模板-->
 <div id="app">
-    <span v-bind:title="message">
-        鼠标悬停几秒钟查看此处动态绑定的提示信息！
-    </span>
+    <button v-on:click="sayHi">click me</button>
 </div>
 
 <!--1.导入vue.js-->
@@ -20,7 +18,12 @@
         el: "#app",
         //model层: 数据
         data: {
-            message: '页面加载于 ' + new Date().toLocaleString()
+            message: "cwlin学Java"
+        },
+        methods: { //方法必须定义在 Vue 的 Method 对象中
+            sayHi: function () {
+                alert(this.message); //'this'在方法里面指向当前Vue实例
+            }
         }
     });
 </script>
