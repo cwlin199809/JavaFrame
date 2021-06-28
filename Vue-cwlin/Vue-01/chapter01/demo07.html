@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        [v-cloak]{
+            /*v-cloak 解决闪烁问题*/
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+<!--view层: 模板-->
+<div id="app" v-cloak>
+    <div>name: {{info.name}}</div>
+    <div>address: {{info.address.street}}, {{info.address.city}}, {{info.address.country}}</div>
+    <div>url: <a v-bind:href="info.url" target="_blank" rel="noopener noreferrer">{{info.url}}</a> </div>
+</div>
+
+<!--1.导入vue.js-->
+<script src="https://cdn.jsdelivr.net/npm/vue@2.5.21/dist/vue.min.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script type="text/javascript">
+    var vm = new Vue({
+        el: "#app",
+        //model层: 数据
+        data(){ //data方法，区别于data属性
+            return{
+                //请求的返回参数格式，必须和json字符串一样
+                info: {
+                    name: null,
+                    url: null,
+                    address: {
+                        street: null,
+                        city: null,
+                        country: null
+                    }
+                }
+            }
+        },
+        mounted(){ //钩子函数，链式编程，必须支持ES6新特性
+            axios.get('../data.json').then(response => (this.info = response.data));
+        }
+    });
+</script>
+</body>
+</html>
