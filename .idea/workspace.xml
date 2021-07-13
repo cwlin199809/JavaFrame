@@ -9,17 +9,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.04.21 20：59">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/Vue-01/chapter01/demo07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/Vue-01/chapter01/demo08.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/Vue-01/chapter01/demo09.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/Vue-01/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_6_24_15_06__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_6_24_15_06__Default_Changelist_.xml" afterDir="false" />
+    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.06.29 01：02">
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/config/test.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/test/e2e/custom-assertions/elementCount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/test/e2e/nightwatch.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/test/e2e/runner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/test/e2e/specs/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/test/unit/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/test/unit/jest.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/test/unit/setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/test/unit/specs/HelloWorld.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_6_24_15_06_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_6_24_15_06__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_6_27_12_03_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_6_27_12_03__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue-cwlin/Vue-cwlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/Vue-cwlin.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,13 +126,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -279,7 +288,8 @@
       <workItem from="1624458364892" duration="3706000" />
       <workItem from="1624518545049" duration="20000" />
       <workItem from="1624710733279" duration="5316000" />
-      <workItem from="1624887749201" duration="10968000" />
+      <workItem from="1624887749201" duration="11039000" />
+      <workItem from="1626184646267" duration="2756000" />
     </task>
     <task id="LOCAL-00001" summary="2021.04.05 18：40">
       <created>1617619251321</created>
@@ -477,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621271804346</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="2021.06.29 01：02">
+      <created>1624899784171</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1624899784171</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,7 +517,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2021.04.07 02：50" />
     <MESSAGE value="2021.04.07 21：31" />
     <MESSAGE value="2021.04.07 21：32" />
     <MESSAGE value="2021.04.09 13：37" />
@@ -525,7 +541,8 @@
     <MESSAGE value="2021.05.16 00：34" />
     <MESSAGE value="2021.05.18 01：13" />
     <MESSAGE value="2021.05.18 01：16 SSM框架结束" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.05.18 01：16 SSM框架结束" />
+    <MESSAGE value="2021.06.29 01：02" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.06.29 01：02" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
