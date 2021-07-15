@@ -9,23 +9,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.06.26 22：03">
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/components/Cwlin.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/components/Main.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-03/dist/js/bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-03/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-03/modules/hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-03/modules/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-03/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.15 10：18">
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/Main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/user/List.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/user/Profile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/static/.gitkeep" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-02/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/router/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +51,8 @@
         <option value="Jsp File" />
         <option value="Class" />
         <option value="package.json" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="Vue Single File Component" />
       </list>
     </option>
@@ -80,6 +91,7 @@
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/Vue-cwlin/vue-02/package.json" />
+    <dismissed value="$PROJECT_DIR$/Vue-cwlin/vue-04/package.json" />
   </component>
   <component name="ProjectId" id="1qZeelfklvxNoWYz0wzHg1giby7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -132,15 +144,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -297,7 +307,8 @@
       <workItem from="1624887749201" duration="11039000" />
       <workItem from="1626184646267" duration="2756000" />
       <workItem from="1626264787753" duration="3729000" />
-      <workItem from="1626268570784" duration="11276000" />
+      <workItem from="1626268570784" duration="11383000" />
+      <workItem from="1626347934742" duration="6940000" />
     </task>
     <task id="LOCAL-00001" summary="2021.04.05 18：40">
       <created>1617619251321</created>
@@ -502,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624899784171</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="2021.07.15 10：18">
+      <created>1626315495932</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1626315495932</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,7 +543,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2021.04.07 21：31" />
     <MESSAGE value="2021.04.07 21：32" />
     <MESSAGE value="2021.04.09 13：37" />
     <MESSAGE value="2021.04.10 21：21" />
@@ -550,7 +567,8 @@
     <MESSAGE value="2021.05.18 01：13" />
     <MESSAGE value="2021.05.18 01：16 SSM框架结束" />
     <MESSAGE value="2021.06.29 01：02" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.06.29 01：02" />
+    <MESSAGE value="2021.07.15 10：18" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.07.15 10：18" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
