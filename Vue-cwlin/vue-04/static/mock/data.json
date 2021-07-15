@@ -1,0 +1,25 @@
+{
+  "name": "cwlin",
+  "url": "https://blog.csdn.net/coder_lcw",
+  "page": 1,
+  "isNonProfit": true,
+  "address": {
+    "street": "xx#xxx",
+    "city": "Fujian Fuzhou",
+    "country": "China"
+  },
+  "links": [
+    {
+      "name": "cwlin",
+      "url": "https://blog.csdn.net/coder_lcw"
+    },
+    {
+      "name": "bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "name": "Baidu",
+      "url": "https://www.baidu.com/"
+    }
+  ]
+}

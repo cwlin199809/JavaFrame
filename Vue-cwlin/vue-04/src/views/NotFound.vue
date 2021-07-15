@@ -1,18 +1,15 @@
 <template>
-  <div id="app">
-    <router-view></router-view>
+  <div>
+    <h1>404,你的页面走丢了</h1>
   </div>
 </template>
 
 <script>
-
-
 export default {
-  name: 'App',
-
+  name: "NotFound"
 }
 </script>
 
-<style>
+<style scoped>
 
 </style>

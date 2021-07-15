@@ -9,8 +9,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.15 21：20">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.14 01：28">
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/NotFound.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/static/mock/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/Main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/Main.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/user/List.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/user/List.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/user/Profile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/user/Profile.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +127,17 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.44" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.44" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>

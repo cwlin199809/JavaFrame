@@ -9,15 +9,15 @@
         <el-input type="password" placeholder="请输入密码" v-model="form.password"/>
       </el-form-item>
       <el-form-item>
-        <el-button type="primary" v-on:click="onsubmit('loginForm')">登录</el-button>
+        <el-button type="primary" v-on:click="onSubmit('loginForm')">登录</el-button>
       </el-form-item>
     </el-form>
 
     <el-dialog title="温馨提示" :visible.sync="dialogVisiable" width="30%" :before-close="handleClose">
       <span>请输入账号和密码</span>
       <span slot="footer" class="dialog-footer">
-          <el-button type="primary" @click="dialogVisible = false">确定</el-button>
-        </span>
+        <el-button type="primary" @click="dialogVisible = false">确定</el-button>
+      </span>
     </el-dialog>
   </div>
 </template>
@@ -37,7 +37,7 @@ export default {
           {required:true,message:"账号不可为空",trigger:"blur"}
         ],
         password:[
-          {required:true,message:"密码不可为空",tigger:"blur"}
+          {required:true,message:"密码不可为空",trigger:"blur"}
         ]
       },
 
@@ -51,7 +51,7 @@ export default {
       this.$refs[formName].validate((valid)=>{
         if(valid){
           //使用vue-router路由到指定界面，该方式称为编程式导航
-          this.$router.push('/main');
+          this.$router.push('/main/' + this.form.username);
         }else{
           this.dialogVisible=true;
           return false;

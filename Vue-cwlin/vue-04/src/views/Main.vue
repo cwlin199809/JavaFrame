@@ -8,11 +8,16 @@
             <el-menu-item-group>
               <el-menu-item index="1-1">
                 <!--插入的地方-->
-                <router-link to="/user/profile">个人信息</router-link>
+                <!--name 传递组件名称，params 传递参数，如果要传参数的话就需要用v:bind:来绑定-->
+                <router-link :to="{name:'UserProfile', params:{id:1}}">个人信息</router-link>
               </el-menu-item>
               <el-menu-item index="1-2">
                 <!--插入的地方-->
-                <router-link to="/user/list">用户列表</router-link>
+                <!--name 传递组件名称，params 传递参数，如果要传参数的话就需要用v:bind:来绑定-->
+                <router-link :to="{name:'UserList', params:{id:1}}">用户列表</router-link>
+              </el-menu-item>
+              <el-menu-item index="1-3">
+                <router-link :to="{name:'GoHome', params:{name:name}}">回到首页</router-link>
               </el-menu-item>
             </el-menu-item-group>
           </el-submenu>
@@ -44,6 +49,7 @@
               <el-dropdown-item>退出登录</el-dropdown-item>
             </el-dropdown-menu>
           </el-dropdown>
+          <span>{{name}}</span>
         </el-header>
         <el-main>
           <!--在这里展示视图-->
@@ -55,7 +61,8 @@
 </template>
 <script>
   export default {
-    name: "Main"
+    name: "Main",
+    props: ["name"]
   }
 </script>
 <style scoped>
