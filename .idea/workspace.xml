@@ -9,17 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.14 01：28">
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/NotFound.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/static/mock/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/Main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/Main.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/user/List.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/user/List.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/user/Profile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/user/Profile.vue" afterDir="false" />
+    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.16 02：26">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,17 +119,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tomcat 9.0.44" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.44" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -294,6 +275,8 @@
       <workItem from="1626347934742" duration="7196000" />
       <workItem from="1626355240510" duration="1057000" />
       <workItem from="1626356713956" duration="305000" />
+      <workItem from="1626372911261" duration="201000" />
+      <workItem from="1626373179490" duration="436000" />
     </task>
     <task id="LOCAL-00001" summary="2021.04.05 18：40">
       <created>1617619251321</created>
@@ -533,7 +516,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626356642868</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="2021.07.15 02:09">
+      <created>1626372607024</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1626372607024</updated>
+    </task>
+    <task id="LOCAL-00036" summary="2021.07.16 02：18">
+      <created>1626373593661</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1626373593661</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,10 +553,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2021.04.10 21：21" />
-    <MESSAGE value="2021.04.11 16：48" />
-    <MESSAGE value="2021.04.11 20：52" />
-    <MESSAGE value="2021.04.12 21：56" />
     <MESSAGE value="2021.04.12 22：37" />
     <MESSAGE value="2021.04.13 21：04" />
     <MESSAGE value="2021.04.20 21：09" />
@@ -581,7 +574,11 @@
     <MESSAGE value="2021.07.15 10：18" />
     <MESSAGE value="2021.07.15 21：15" />
     <MESSAGE value="2021.07.15 21：20" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.07.15 21：20" />
+    <MESSAGE value="2021.07.15 02:09" />
+    <MESSAGE value="2021.07.16 02：16" />
+    <MESSAGE value="2021.07.16 02：18" />
+    <MESSAGE value="2021.07.16 02：26" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.07.16 02：26" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
