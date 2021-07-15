@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.15 10：18">
+    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.15 21：19">
       <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/.babelrc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/.editorconfig" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/.gitignore" afterDir="false" />
@@ -27,6 +27,7 @@
       <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/config/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/config/prod.env.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/package-lock.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/App.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/main.js" afterDir="false" />
@@ -308,7 +309,7 @@
       <workItem from="1626184646267" duration="2756000" />
       <workItem from="1626264787753" duration="3729000" />
       <workItem from="1626268570784" duration="11383000" />
-      <workItem from="1626347934742" duration="6940000" />
+      <workItem from="1626347934742" duration="7196000" />
     </task>
     <task id="LOCAL-00001" summary="2021.04.05 18：40">
       <created>1617619251321</created>
@@ -520,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626315495932</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="2021.07.15 21：15">
+      <created>1626354974003</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1626354974003</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +551,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2021.04.07 21：32" />
     <MESSAGE value="2021.04.09 13：37" />
     <MESSAGE value="2021.04.10 21：21" />
     <MESSAGE value="2021.04.11 16：48" />
@@ -568,7 +575,8 @@
     <MESSAGE value="2021.05.18 01：16 SSM框架结束" />
     <MESSAGE value="2021.06.29 01：02" />
     <MESSAGE value="2021.07.15 10：18" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.07.15 10：18" />
+    <MESSAGE value="2021.07.15 21：15" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.07.15 21：15" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
