@@ -9,24 +9,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.06.29 01：02">
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/config/test.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/test/e2e/custom-assertions/elementCount.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/test/e2e/nightwatch.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/test/e2e/runner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/test/e2e/specs/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/test/unit/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/test/unit/jest.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/test/unit/setup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/test/unit/specs/HelloWorld.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_6_24_15_06_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_6_24_15_06__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_6_27_12_03_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_6_27_12_03__Default_Changelist_.xml" beforeDir="false" />
+    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.06.26 22：03">
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/components/Cwlin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/components/Main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-03/dist/js/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-03/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-03/modules/hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-03/modules/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue-cwlin/vue-03/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-02/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-02/src/router/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +39,10 @@
         <option value="spring-beans.schema" />
         <option value="Jsp File" />
         <option value="Class" />
-        <option value="HTML File" />
         <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -77,6 +78,9 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/Vue-cwlin/vue-02/package.json" />
+  </component>
   <component name="ProjectId" id="1qZeelfklvxNoWYz0wzHg1giby7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -95,21 +99,23 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Vue-cwlin/Vue-01/chapter01" />
+    <property name="javascript.nodejs.core.library.configured.version" value="16.4.2" />
+    <property name="javascript.nodejs.core.library.typings.version" value="16.3.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Vue-cwlin/vue-02/src/components" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.14765784" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java学习历程\JavaFrame\Vue-cwlin\vue-02\src\components" />
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\Vue-cwlin\Vue-01\chapter01" />
       <recent name="E:\Java学习历程\JavaFrame\Vue-cwlin\Vue-01\chapter01" />
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-08-File\src\main\resources" />
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-07-Interceptor\src\main\resources" />
-      <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-06-Ajax\web\static" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-06-Ajax\web\static\js" />
@@ -290,6 +296,8 @@
       <workItem from="1624710733279" duration="5316000" />
       <workItem from="1624887749201" duration="11039000" />
       <workItem from="1626184646267" duration="2756000" />
+      <workItem from="1626264787753" duration="3729000" />
+      <workItem from="1626268570784" duration="11276000" />
     </task>
     <task id="LOCAL-00001" summary="2021.04.05 18：40">
       <created>1617619251321</created>
