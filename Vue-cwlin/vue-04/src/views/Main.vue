@@ -67,11 +67,18 @@
 </script>
 <style scoped>
   .el-header {
-    background-color: #B3C0D1;
+    background-color: #97c5fa;
     color: #333;
     line-height: 60px;
   }
   .el-aside {
     color: #333;
+  }
+  a, .router-link-visited {
+    color: #333;
+    text-decoration: none;
+  }
+  .router-link-active {
+    color: #0099ff;
   }
 </style>

@@ -10,8 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.16 02：26">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/Main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/Main.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/user/Profile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/user/Profile.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,21 +90,22 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="16.4.2" />
     <property name="javascript.nodejs.core.library.typings.version" value="16.3.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Vue-cwlin/vue-02/src/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Vue-cwlin/vue-04/src/views/user" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.14765784" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java学习历程\JavaFrame\Vue-cwlin\vue-04\src\views\user" />
       <recent name="E:\Java学习历程\JavaFrame\Vue-cwlin\vue-02\src\components" />
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\Vue-cwlin\Vue-01\chapter01" />
       <recent name="E:\Java学习历程\JavaFrame\Vue-cwlin\Vue-01\chapter01" />
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-08-File\src\main\resources" />
-      <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-07-Interceptor\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-06-Ajax\web\static\js" />
