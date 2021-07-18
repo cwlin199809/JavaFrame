@@ -9,8 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.19 01：36">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.19 02：01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +33,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -119,19 +119,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.44">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HelloworldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="SpringBoot-01-HelloWorld" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cwlin.helloworld.HelloworldApplication" />
@@ -234,8 +221,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="" />
-      <changelist id="" name="New changelist" comment="" />
-      <changelist id="" name="ignored" comment="" />
       <created>1617291638363</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -308,7 +293,9 @@
       <workItem from="1626623473306" duration="605000" />
       <workItem from="1626624130575" duration="1310000" />
       <workItem from="1626625587694" duration="1222000" />
-      <workItem from="1626626943481" duration="3713000" />
+      <workItem from="1626626943481" duration="4350000" />
+      <workItem from="1626631992505" duration="502000" />
+      <workItem from="1626632569370" duration="621000" />
     </task>
     <task id="LOCAL-00001" summary="2021.04.05 18：40">
       <created>1617619251321</created>
@@ -583,7 +570,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626629782022</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="2021.07.19 02：01">
+      <created>1626631321640</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1626631321640</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -644,7 +638,6 @@
       <path value="$PROJECT_DIR$/Vue-cwlin/vue-02/node_modules" />
       <path value="$PROJECT_DIR$/Vue-cwlin/vue-04/node_modules" />
     </ignored-roots>
-    <MESSAGE value="2021.04.20 21：10" />
     <MESSAGE value="2021.04.21 00：08" />
     <MESSAGE value="2021.04.21 00：54" />
     <MESSAGE value="2021.04.21 20：56" />
@@ -669,7 +662,8 @@
     <MESSAGE value="2021.07.19 00：44" />
     <MESSAGE value="2021.07.19 01：10" />
     <MESSAGE value="2021.07.19 01：36" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.07.19 01：36" />
+    <MESSAGE value="2021.07.19 02：01" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.07.19 02：01" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
