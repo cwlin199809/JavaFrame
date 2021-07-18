@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Vue-cwlin/vue-02/node_modules" vcs="" />
-    <mapping directory="$PROJECT_DIR$/Vue-cwlin/vue-04/node_modules" vcs="" />
   </component>
 </project>
