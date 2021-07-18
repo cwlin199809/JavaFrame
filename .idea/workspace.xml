@@ -233,6 +233,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.44">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloworldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="SpringBoot-01-HelloWorld" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cwlin.helloworld.HelloworldApplication" />
@@ -407,7 +420,7 @@
       <workItem from="1626623473306" duration="605000" />
       <workItem from="1626624130575" duration="1310000" />
       <workItem from="1626625587694" duration="1222000" />
-      <workItem from="1626626943481" duration="772000" />
+      <workItem from="1626626943481" duration="2161000" />
     </task>
     <task id="LOCAL-00001" summary="2021.04.05 18：40">
       <created>1617619251321</created>
@@ -668,7 +681,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626373651006</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="2021.07.19 01：10">
+      <created>1626628657120</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1626628657120</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
