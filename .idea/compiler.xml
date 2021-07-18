@@ -12,6 +12,7 @@
         <module name="Spring-05-Autowired" />
         <module name="Spring-10-MyBatis" />
         <module name="SpringMVC-07-Interceptor" />
+        <module name="SpringBoot-01-HelloWorld" />
         <module name="Spring-07-AppConfig" />
         <module name="SpringMVC-01-Servlet" />
         <module name="MyBatis-01" />
@@ -41,6 +42,7 @@
       <module name="Cookie_Session-cwlin" target="1.5" />
       <module name="Filter" target="15" />
       <module name="Filter-cwlin" target="15" />
+      <module name="helloWorld" target="11" />
       <module name="JSP-cwlin" target="15" />
       <module name="Maven-cwlin" target="1.7" />
       <module name="MyBatis-01" target="15" />
@@ -73,6 +75,7 @@
       <module name="Spring-10-MyBatis" target="15" />
       <module name="Spring-11-Transaction" target="15" />
       <module name="Spring-cwlin" target="15" />
+      <module name="SpringBoot-01-HelloWorld" target="1.8" />
       <module name="SpringMVC-01-Servlet" target="15" />
       <module name="SpringMVC-02-HelloMVC" target="15" />
       <module name="SpringMVC-03-Annotation" target="15" />
@@ -83,5 +86,10 @@
       <module name="SpringMVC-08-File" target="15" />
       <module name="SpringMVC-cwlin" target="15" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="helloWorld" options="-parameters" />
+    </option>
   </component>
 </project>
