@@ -26,6 +26,7 @@
         <module name="Spring-04-DI" />
         <module name="Spring-08-Proxy" />
         <module name="Spring-06-Annotation" />
+        <module name="SpringBoot-cwlin" />
         <module name="MyBatis-06" />
         <module name="MyBatis-07" />
         <module name="MyBatis-08" />
@@ -76,6 +77,7 @@
       <module name="Spring-11-Transaction" target="15" />
       <module name="Spring-cwlin" target="15" />
       <module name="SpringBoot-01-HelloWorld" target="11" />
+      <module name="SpringBoot-cwlin" target="15" />
       <module name="SpringMVC-01-Servlet" target="15" />
       <module name="SpringMVC-02-HelloMVC" target="15" />
       <module name="SpringMVC-03-Annotation" target="15" />
