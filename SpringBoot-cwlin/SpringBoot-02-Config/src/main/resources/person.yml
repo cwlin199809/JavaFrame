@@ -1,0 +1,11 @@
+person:
+  name: cwlin_${random.uuid}
+  age: ${random.int}
+  feeling: true
+  birthday: 2021/07/20
+  maps: {k1: v1, k2: v2}
+  lists: [code,music,movie]
+  hello: happy
+  dog:
+    name: ${person.hello:hello}_xiaoHei
+    age: 3

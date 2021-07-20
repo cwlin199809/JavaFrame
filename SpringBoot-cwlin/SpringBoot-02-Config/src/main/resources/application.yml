@@ -1,0 +1,13 @@
+person:
+  name: cwlin
+  age: 18
+  feeling: true
+  birthday: 2021/07/20
+  maps: {k1: v1, k2: v2}
+  list:
+    - code
+    - music
+    - movie
+  dog:
+    name: xiaoHei
+    age: 3

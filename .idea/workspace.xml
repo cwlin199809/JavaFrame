@@ -9,16 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.19 20：09">
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/SpringBoot-02-Config.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/src/main/java/com/cwlin/SpringBoot02ConfigApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/src/test/java/com/cwlin/SpringBoot02ConfigApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.20 01：53">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/src/main/java/com/cwlin/pojo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/src/main/java/com/cwlin/pojo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/src/main/resources/person.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_3.xml" afterDir="false" />
@@ -80,15 +76,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_8.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_28.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_28.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-01-HelloWorld/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-01-HelloWorld/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-01-HelloWorld/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-01-HelloWorld/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-01-HelloWorld/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-01-HelloWorld/src/main/java/com/cwlin/SpringBoot01HelloWorldApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-01-HelloWorld/src/main/java/com/cwlin/SpringBoot01HelloWorldApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/SpringBoot-02-Config.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/SpringBoot-02-Config.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/src/test/java/com/cwlin/SpringBoot02ConfigApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/src/test/java/com/cwlin/SpringBoot02ConfigApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +105,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -132,9 +124,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\maven-3.6.3\repo" />
-        <option name="mavenHome" value="D:/maven-3.6.3" />
-        <option name="userSettingsFile" value="D:\maven-3.6.3\conf\settings.xml" />
+        <option name="localRepository" value="D:\Java\apache-maven-3.6.3\repo" />
+        <option name="mavenHome" value="D:/Java/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Java\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -170,11 +162,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="16.4.2" />
-    <property name="javascript.nodejs.core.library.typings.version" value="16.3.2" />
+    <property name="javascript.nodejs.core.library.typings.version" value="16.3.3" />
     <property name="jdk.selected.JAVA_MODULE" value="jdk-15.0.1" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-01-HelloWorld" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.14765784" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -209,7 +201,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBoot01HelloWorldApplication">
+  <component name="RunManager" selected="JUnit.SpringBoot02ConfigApplicationTests.contextLoads">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -221,16 +213,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloworldApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SpringBoot-01-HelloWorld" />
+    <configuration name="SpringBoot02ConfigApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot-02-Config" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cwlin.helloworld.*" />
+          <option name="PATTERN" value="com.cwlin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cwlin.helloworld" />
-      <option name="MAIN_CLASS_NAME" value="com.cwlin.helloworld.HelloworldApplicationTests" />
+      <option name="PACKAGE_NAME" value="com.cwlin" />
+      <option name="MAIN_CLASS_NAME" value="com.cwlin.SpringBoot02ConfigApplicationTests" />
       <option name="METHOD_NAME" value="contextLoads" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -251,18 +243,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="JUnit.HelloworldApplicationTests.contextLoads" />
-      <item itemvalue="Spring Boot.SpringBoot01HelloWorldApplication" />
-      <item itemvalue="Spring Boot.SpringBoot02ConfigApplication" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HelloworldApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.SpringBoot02ConfigApplicationTests.contextLoads" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\醉染\AppData\Roaming\Subversion</configuration>
   </component>
@@ -345,8 +335,9 @@
       <workItem from="1626631992505" duration="502000" />
       <workItem from="1626632569370" duration="621000" />
       <workItem from="1626692851486" duration="3384000" />
-      <workItem from="1626745922520" duration="91000" />
-      <workItem from="1626746027150" duration="4978000" />
+      <workItem from="1626705350312" duration="10627000" />
+      <workItem from="1626795882040" duration="1882000" />
+      <workItem from="1626797920147" duration="4386000" />
     </task>
     <task id="LOCAL-00001" summary="2021.04.05 18：40">
       <created>1617619251321</created>
@@ -656,7 +647,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626682194389</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="2021.07.20 01：30">
+      <created>1626715922554</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1626715922554</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -717,7 +715,6 @@
       <path value="$PROJECT_DIR$/Vue-cwlin/vue-02/node_modules" />
       <path value="$PROJECT_DIR$/Vue-cwlin/vue-04/node_modules" />
     </ignored-roots>
-    <MESSAGE value="2021.04.23 01：10" />
     <MESSAGE value="2021.04.23 13：34" />
     <MESSAGE value="2021.04.23 13：35" />
     <MESSAGE value="2021.04.23 17：35" />
@@ -742,7 +739,8 @@
     <MESSAGE value="2021.07.19 09：47" />
     <MESSAGE value="2021.07.19 16：08" />
     <MESSAGE value="2021.07.19 16：09" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.07.19 16：09" />
+    <MESSAGE value="2021.07.20 01：30" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.07.20 01：30" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
