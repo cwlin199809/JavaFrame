@@ -10,6 +10,8 @@ public class SpringBoot01HelloWorldApplication {
 
     public static void main(String[] args) {
         //以为是启动了一个方法，实际上是启动了一个服务
+        //该方法返回一个 ConfigurableApplicationContext 对象
+        //参数：当前应用的主程序类，命令行参数
         SpringApplication.run(SpringBoot01HelloWorldApplication.class, args);
     }
 
