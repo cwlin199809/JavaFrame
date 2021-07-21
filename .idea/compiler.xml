@@ -26,7 +26,7 @@
         <module name="Spring-04-DI" />
         <module name="Spring-08-Proxy" />
         <module name="Spring-06-Annotation" />
-        <module name="SpringBoot-cwlin" />
+        <module name="SpringBoot-03-Web" />
         <module name="MyBatis-06" />
         <module name="MyBatis-07" />
         <module name="MyBatis-08" />
@@ -79,6 +79,7 @@
       <module name="Spring-cwlin" target="15" />
       <module name="SpringBoot-01-HelloWorld" target="11" />
       <module name="SpringBoot-02-Config" target="11" />
+      <module name="SpringBoot-03-Web" target="1.8" />
       <module name="SpringBoot-cwlin" target="15" />
       <module name="SpringMVC-01-Servlet" target="15" />
       <module name="SpringMVC-02-HelloMVC" target="15" />
@@ -89,6 +90,7 @@
       <module name="SpringMVC-07-Interceptor" target="15" />
       <module name="SpringMVC-08-File" target="15" />
       <module name="SpringMVC-cwlin" target="15" />
+      <module name="wrapper" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
