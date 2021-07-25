@@ -9,10 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.22 01：39">
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/src/main/java/com/cwlin/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/src/main/resources/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/src/main/resources/templates/index.html" afterDir="false" />
+    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.23 13：00">
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/src/main/resources/static/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +95,7 @@
     <property name="javascript.nodejs.core.library.configured.version" value="16.4.2" />
     <property name="javascript.nodejs.core.library.typings.version" value="16.3.3" />
     <property name="jdk.selected.JAVA_MODULE" value="jdk-15.0.1" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/src/main/resources/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/src/main/resources" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.14765784" />
@@ -107,13 +105,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringBoot-cwlin\SpringBoot-03-Web\src\main\resources" />
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringBoot-cwlin\SpringBoot-03-Web\src\main\resources\templates" />
       <recent name="E:\Java学习历程\JavaFrame\Vue-cwlin\vue-02\src\components" />
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\Vue-cwlin\Vue-01\chapter01" />
       <recent name="E:\Java学习历程\JavaFrame\Vue-cwlin\Vue-01\chapter01" />
-      <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-08-File\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringBoot-cwlin\SpringBoot-03-Web\src\main\resources\static" />
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-06-Ajax\web\static\js" />
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-04-Controller\web" />
       <recent name="E:\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-03-Annotation\web\WEB-INF\jsp" />
@@ -134,16 +133,14 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBoot03WebApplication">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="npm.build">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -171,11 +168,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/Vue-cwlin/vue-02/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Spring Boot.SpringBoot01HelloWorldApplication" />
       <item itemvalue="Spring Boot.SpringBoot02ConfigApplication" />
       <item itemvalue="Spring Boot.SpringBoot03WebApplication" />
+      <item itemvalue="npm.build" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SpringBootOptions">
@@ -267,6 +280,7 @@
       <workItem from="1626795882040" duration="1882000" />
       <workItem from="1626797920147" duration="4386000" />
       <workItem from="1626884416575" duration="4574000" />
+      <workItem from="1627231223878" duration="1782000" />
     </task>
     <task id="LOCAL-00001" summary="2021.04.05 18：40">
       <created>1617619251321</created>
@@ -583,7 +597,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626715922554</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="2021.07.23 13：00">
+      <created>1627016440903</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1627016440903</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -644,7 +665,6 @@
       <path value="$PROJECT_DIR$/Vue-cwlin/vue-02/node_modules" />
       <path value="$PROJECT_DIR$/Vue-cwlin/vue-04/node_modules" />
     </ignored-roots>
-    <MESSAGE value="2021.04.23 13：34" />
     <MESSAGE value="2021.04.23 13：35" />
     <MESSAGE value="2021.04.23 17：35" />
     <MESSAGE value="2021.04.23 17：36" />
@@ -669,7 +689,8 @@
     <MESSAGE value="2021.07.19 16：08" />
     <MESSAGE value="2021.07.19 16：09" />
     <MESSAGE value="2021.07.20 01：30" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.07.20 01：30" />
+    <MESSAGE value="2021.07.23 13：00" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.07.23 13：00" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
