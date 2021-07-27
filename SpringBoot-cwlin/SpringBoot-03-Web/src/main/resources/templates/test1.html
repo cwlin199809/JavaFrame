@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>测试页面</h1>
+<!--所有的html元素都可以被thymeleaf替换接管，th:元素名-->
+<!--text=默认是转义文本-->
+<h2 th:text="${msg}"></h2>
+
+<!--utext=默认是不转义文本-->
+<h2 th:utext="${msg}"></h2>
+
+<hr>
+<!--th:each每次遍历都会生成当前这个标签：官网#9-->
+<h3 th:each="user: ${users}" th:text="${user}"></h3>
+
+<h3>
+    <!--行内写法：官网#12-->
+    <span th:each="user:${users}"> [[${user}]] </span>
+</h3>
+</body>
+</html>
