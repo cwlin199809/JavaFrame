@@ -9,22 +9,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.22 21：13">
+    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.27 21：18">
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/src/main/java/com/cwlin/config/MyMVCConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="f1e1717d-d4bf-4742-94e7-b0bb7ffe3d1b" name="Maven Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_3_7_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/src/main/java/com/cwlin/controller/Test1Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/src/main/java/com/cwlin/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/src/main/resources/templates/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/src/main/resources/templates/test1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/SpringBoot-03-Web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/SpringBoot-03-Web.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/pom.xml" afterDir="false" />
-    </list>
-    <list id="f1e1717d-d4bf-4742-94e7-b0bb7ffe3d1b" name="Maven Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_76.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_76.xml" afterDir="false" />
@@ -191,8 +186,8 @@
         <option value="package.json" />
         <option value="Vue Single File Component" />
         <option value="JavaScript File" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -297,13 +292,15 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.SpringBoot03WebApplication">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -428,7 +425,8 @@
       <workItem from="1626797920147" duration="4386000" />
       <workItem from="1626884416575" duration="4574000" />
       <workItem from="1627372832079" duration="646000" />
-      <workItem from="1627373525754" duration="6292000" />
+      <workItem from="1627373525754" duration="6432000" />
+      <workItem from="1627523202767" duration="5723000" />
     </task>
     <task id="LOCAL-00001" summary="2021.04.05 18：40">
       <created>1617619251321</created>
@@ -745,7 +743,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626715922554</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="2021.07.27 21：18">
+      <created>1627391896930</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1627391896930</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -806,7 +811,6 @@
       <path value="$PROJECT_DIR$/Vue-cwlin/vue-02/node_modules" />
       <path value="$PROJECT_DIR$/Vue-cwlin/vue-04/node_modules" />
     </ignored-roots>
-    <MESSAGE value="2021.04.23 13：34" />
     <MESSAGE value="2021.04.23 13：35" />
     <MESSAGE value="2021.04.23 17：35" />
     <MESSAGE value="2021.04.23 17：36" />
@@ -831,7 +835,19 @@
     <MESSAGE value="2021.07.19 16：08" />
     <MESSAGE value="2021.07.19 16：09" />
     <MESSAGE value="2021.07.20 01：30" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.07.20 01：30" />
+    <MESSAGE value="2021.07.27 21：18" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.07.27 21：18" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/maven-3.6.3/repo/org/springframework/spring-webmvc/5.2.12.RELEASE/spring-webmvc-5.2.12.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>470</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
