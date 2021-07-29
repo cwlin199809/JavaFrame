@@ -9,9 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.27 21：18">
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/src/main/java/com/cwlin/config/MyMVCConfig.java" afterDir="false" />
+    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.29 12：58">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/src/main/java/com/cwlin/config/MyMVCConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/src/main/java/com/cwlin/config/MyMVCConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/src/main/resources/application.properties" afterDir="false" />
     </list>
     <list id="f1e1717d-d4bf-4742-94e7-b0bb7ffe3d1b" name="Maven Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
@@ -292,19 +293,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.SpringBoot03WebApplication">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SpringBoot01HelloWorldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="SpringBoot-01-HelloWorld" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cwlin.SpringBoot01HelloWorldApplication" />
@@ -426,7 +414,8 @@
       <workItem from="1626884416575" duration="4574000" />
       <workItem from="1627372832079" duration="646000" />
       <workItem from="1627373525754" duration="6432000" />
-      <workItem from="1627523202767" duration="5723000" />
+      <workItem from="1627523202767" duration="5941000" />
+      <workItem from="1627540817591" duration="4019000" />
     </task>
     <task id="LOCAL-00001" summary="2021.04.05 18：40">
       <created>1617619251321</created>
@@ -750,7 +739,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627391896930</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="2021.07.29 12：58">
+      <created>1627534731711</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1627534731711</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -811,7 +807,6 @@
       <path value="$PROJECT_DIR$/Vue-cwlin/vue-02/node_modules" />
       <path value="$PROJECT_DIR$/Vue-cwlin/vue-04/node_modules" />
     </ignored-roots>
-    <MESSAGE value="2021.04.23 13：35" />
     <MESSAGE value="2021.04.23 17：35" />
     <MESSAGE value="2021.04.23 17：36" />
     <MESSAGE value="2021.05.16 00：32" />
@@ -836,7 +831,8 @@
     <MESSAGE value="2021.07.19 16：09" />
     <MESSAGE value="2021.07.20 01：30" />
     <MESSAGE value="2021.07.27 21：18" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.07.27 21：18" />
+    <MESSAGE value="2021.07.29 12：58" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.07.29 12：58" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
