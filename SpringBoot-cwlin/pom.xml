@@ -13,6 +13,9 @@
         <module>SpringBoot-01-HelloWorld</module>
         <module>SpringBoot-02-Config</module>
         <module>SpringBoot-03-Web</module>
+        <module>SpringBoot-04-Data</module>
+        <module>SpringBoot-05-Security</module>
+        <module>SpringBoot-06-Shiro</module>
     </modules>
 
     <properties>

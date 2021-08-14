@@ -10,6 +10,7 @@
         <module name="Spring-03-IOC2" />
         <module name="SpringMVC-08-File" />
         <module name="Spring-05-Autowired" />
+        <module name="Shiro-02-SpringBoot" />
         <module name="Spring-10-MyBatis" />
         <module name="SpringMVC-07-Interceptor" />
         <module name="SpringBoot-01-HelloWorld" />
@@ -23,11 +24,14 @@
         <module name="MyBatis-04" />
         <module name="MyBatis-05" />
         <module name="Spring-11-Transaction" />
+        <module name="SpringBoot-05-Security" />
         <module name="Spring-04-DI" />
+        <module name="SpringBoot-04-Data" />
         <module name="Spring-08-Proxy" />
         <module name="Spring-06-Annotation" />
         <module name="SpringBoot-03-Web" />
         <module name="MyBatis-06" />
+        <module name="Shiro-01-QuickStart" />
         <module name="MyBatis-07" />
         <module name="MyBatis-08" />
         <module name="SpringBoot-02-Config" />
@@ -64,6 +68,9 @@
       <module name="Servlet-02" target="1.7" />
       <module name="Servlet-cwlin" target="15" />
       <module name="Session_Cookie-cwlin" target="1.7" />
+      <module name="Shiro-01-QuickStart" target="15" />
+      <module name="Shiro-02-SpringBoot" target="1.8" />
+      <module name="Shiro-QuickStart" target="15" />
       <module name="Spring-01-IOC1" target="15" />
       <module name="Spring-02-HelloSpring" target="15" />
       <module name="Spring-03-IOC2" target="15" />
@@ -80,6 +87,10 @@
       <module name="SpringBoot-01-HelloWorld" target="11" />
       <module name="SpringBoot-02-Config" target="11" />
       <module name="SpringBoot-03-Web" target="1.8" />
+      <module name="SpringBoot-04-Data" target="11" />
+      <module name="SpringBoot-05-MyBatis" target="1.8" />
+      <module name="SpringBoot-05-Security" target="1.8" />
+      <module name="SpringBoot-06-Shiro" target="15" />
       <module name="SpringBoot-cwlin" target="15" />
       <module name="SpringMVC-01-Servlet" target="15" />
       <module name="SpringMVC-02-HelloMVC" target="15" />

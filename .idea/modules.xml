@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/MyBatis-cwlin/MyBatis-08/MyBatis-08.iml" filepath="$PROJECT_DIR$/MyBatis-cwlin/MyBatis-08/MyBatis-08.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyBatis-cwlin/MyBatis-09/MyBatis-09.iml" filepath="$PROJECT_DIR$/MyBatis-cwlin/MyBatis-09/MyBatis-09.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyBatis-cwlin/MyBatis-cwlin.iml" filepath="$PROJECT_DIR$/MyBatis-cwlin/MyBatis-cwlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-01-QuickStart/Shiro-01-QuickStart.iml" filepath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-01-QuickStart/Shiro-01-QuickStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/Shiro-02-SpringBoot.iml" filepath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/Shiro-02-SpringBoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-01-IOC1/Spring-01-IOC1.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-01-IOC1/Spring-01-IOC1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-02-HelloSpring/Spring-02-HelloSpring.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-02-HelloSpring/Spring-02-HelloSpring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-cwlin/Spring-03-IOC2/Spring-03-IOC2.iml" filepath="$PROJECT_DIR$/Spring-cwlin/Spring-03-IOC2/Spring-03-IOC2.iml" />
@@ -27,6 +29,9 @@
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-01-HelloWorld/SpringBoot-01-HelloWorld.iml" filepath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-01-HelloWorld/SpringBoot-01-HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/SpringBoot-02-Config.iml" filepath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/SpringBoot-02-Config.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/SpringBoot-03-Web.iml" filepath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/SpringBoot-03-Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-Data/SpringBoot-04-Data.iml" filepath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-Data/SpringBoot-04-Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/SpringBoot-05-Security.iml" filepath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/SpringBoot-05-Security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/SpringBoot-06-Shiro.iml" filepath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/SpringBoot-06-Shiro.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-cwlin.iml" filepath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-cwlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-01-Servlet/SpringMVC-01-Servlet.iml" filepath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-01-Servlet/SpringMVC-01-Servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/SpringMVC-02-HelloMVC.iml" filepath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/SpringMVC-02-HelloMVC.iml" />

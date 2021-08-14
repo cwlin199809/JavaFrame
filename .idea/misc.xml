@@ -29,7 +29,17 @@
         <option value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-01-HelloWorld/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-02-Config/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-03-Web/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-Data/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-MyBatis/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-MyBatis/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-QuickStart/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectResources">
