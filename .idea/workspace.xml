@@ -9,7 +9,61 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.07.26 01：14">
+    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.08.14 20：43">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_jakarta_mail_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_83.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_bean_validators_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_boot_starter_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_data_rest_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_oas_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_webflux_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_webmvc_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_annotations_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_models_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-07-Swagger/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-07-Swagger/SpringBoot-07-Swagger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-07-Swagger/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-07-Swagger/src/main/java/com/cwlin/swagger/SpringBoot07SwaggerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-07-Swagger/src/main/java/com/cwlin/swagger/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-07-Swagger/src/main/java/com/cwlin/swagger/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-07-Swagger/src/main/java/com/cwlin/swagger/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-07-Swagger/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-07-Swagger/src/main/resources/application-pro.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-07-Swagger/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-07-Swagger/src/test/java/com/cwlin/swagger/SpringBoot07SwaggerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-08-Task/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-08-Task/SpringBoot-08-Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-08-Task/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-08-Task/src/main/java/com/cwlin/SpringBoot08TaskApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-08-Task/src/main/java/com/cwlin/controller/AsyncController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-08-Task/src/main/java/com/cwlin/service/AsyncService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-08-Task/src/main/java/com/cwlin/service/ScheduledService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-08-Task/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-08-Task/src/test/java/com/cwlin/SpringBoot08TaskApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot-cwlin/pom.xml" afterDir="false" />
+    </list>
+    <list id="03907fb1-3625-4fce-8be1-b56c66946516" name="Maven changelist" comment="Maven changelist">
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_2_6.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_theborakompanioni_thymeleaf_extras_shiro_2_1_0.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
@@ -27,6 +81,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_7_1.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_7_1.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_7.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_2_0.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_2_0.xml" afterDir="false" />
@@ -36,93 +91,14 @@
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_2_0_0_alpha3.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_7_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_3_7_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_3_6_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_3_6_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_3_6_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_12_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_springsecurity5_3_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-Data/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-Data/SpringBoot-04-Data.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-Data/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-Data/src/main/java/com/cwlin/SpringBoot04DataApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-Data/src/main/java/com/cwlin/config/DruidConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-Data/src/main/java/com/cwlin/controller/JdbcController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-Data/src/main/java/com/cwlin/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-Data/src/main/java/com/cwlin/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-Data/src/main/java/com/cwlin/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-Data/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-Data/src/main/resources/mybatis/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-Data/src/main/resources/xxxapplication.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-Data/src/test/java/com/cwlin/SpringBoot04DataApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/SpringBoot-05-Security.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/java/com/cwlin/SpringBoot05SecurityApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/java/com/cwlin/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/java/com/cwlin/controller/RouterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/resources/static/cwlin/css/qinstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/resources/static/cwlin/js/jquery-3.1.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/resources/static/cwlin/js/semantic.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/resources/templates/views/level1/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/resources/templates/views/level1/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/resources/templates/views/level1/3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/resources/templates/views/level2/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/resources/templates/views/level2/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/resources/templates/views/level2/3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/resources/templates/views/level3/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/resources/templates/views/level3/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/resources/templates/views/level3/3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/resources/templates/views/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/main/resources/templates/views/userCenter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/src/test/java/com/cwlin/SpringBoot05SecurityApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-01-QuickStart/Shiro-01-QuickStart.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-01-QuickStart/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-01-QuickStart/src/main/java/Quickstart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-01-QuickStart/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-01-QuickStart/src/main/resources/shiro.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/Shiro-02-SpringBoot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/src/main/java/com/cwlin/Controller/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/src/main/java/com/cwlin/Shiro02SpringBootApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/src/main/java/com/cwlin/config/ShiroConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/src/main/java/com/cwlin/config/UserRealm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/src/main/java/com/cwlin/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/src/main/java/com/cwlin/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/src/main/java/com/cwlin/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/src/main/java/com/cwlin/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/src/main/resources/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/src/main/resources/templates/user/insert.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/src/main/resources/templates/user/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/src/test/java/com/cwlin/Shiro02SpringBootApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/SpringBoot-06-Shiro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/295a40c3-f29d-4c3e-8717-76ed28b52056.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/295a40c3-f29d-4c3e-8717-76ed28b52056/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/295a40c3-f29d-4c3e-8717-76ed28b52056/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/295a40c3-f29d-4c3e-8717-76ed28b52056/storage_v2/_src_/schema/school.dFvhyQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/295a40c3-f29d-4c3e-8717-76ed28b52056/storage_v2/_src_/schema/school.dFvhyQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/295a40c3-f29d-4c3e-8717-76ed28b52056/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot-cwlin/pom.xml" afterDir="false" />
-    </list>
-    <list id="03907fb1-3625-4fce-8be1-b56c66946516" name="Maven changelist" comment="Maven changelist">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_3_7_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_springsecurity5_3_0_4_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
@@ -141,8 +117,8 @@
         <option value="package.json" />
         <option value="Vue Single File Component" />
         <option value="JavaScript File" />
-        <option value="package-info" />
         <option value="HTML File" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -210,21 +186,21 @@
     <property name="javascript.nodejs.core.library.configured.version" value="16.4.2" />
     <property name="javascript.nodejs.core.library.typings.version" value="16.4.2" />
     <property name="jdk.selected.JAVA_MODULE" value="jdk-15.0.1" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/src/main/resources/mybatis/mapper" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-07-Swagger/src/main/resources" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.14765784" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringBoot-cwlin\SpringBoot-07-Swagger\src\main\resources" />
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringBoot-cwlin\SpringBoot-06-Shiro\Shiro-02-SpringBoot\src\main\resources\mybatis\mapper" />
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringBoot-cwlin\SpringBoot-06-Shiro\Shiro-02-SpringBoot\src\main\java\com\cwlin" />
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringBoot-cwlin\SpringBoot-06-Shiro\Shiro-02-SpringBoot\src\main\resources" />
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringBoot-cwlin\SpringBoot-06-Shiro\Shiro-02-SpringBoot\src\main\resources\templates" />
-      <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringBoot-cwlin\SpringBoot-05-Security\src\main\resources\templates\views" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringBoot-cwlin\SpringBoot-06-Shiro\Shiro-02-SpringBoot\src\main\resources\templates" />
@@ -234,11 +210,11 @@
       <recent name="E:\硕士研究\Java学习历程\JavaFrame\SpringMVC-cwlin\SpringMVC-04-Controller\web" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cwlin.swagger.pojo" />
       <recent name="com.cwlin.service" />
       <recent name="com.cwlin.pojo" />
       <recent name="com.cwlin.controller" />
       <recent name="com.cwlin.config" />
-      <recent name="com.cwlin.dao" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -248,7 +224,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Shiro02SpringBootApplication">
+  <component name="RunManager" selected="Spring Boot.SpringBoot08TaskApplication">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -258,22 +234,6 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Shiro02SpringBootApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Shiro-02-SpringBoot" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cwlin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cwlin" />
-      <option name="MAIN_CLASS_NAME" value="com.cwlin.Shiro02SpringBootApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -290,6 +250,8 @@
     <configuration name="SpringBoot01HelloWorldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="SpringBoot-01-HelloWorld" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cwlin.SpringBoot01HelloWorldApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -330,6 +292,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringBoot07SwaggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot-07-Swagger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cwlin.swagger.SpringBoot07SwaggerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot08TaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot-08-Task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cwlin.SpringBoot08TaskApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Spring Boot.SpringBoot01HelloWorldApplication" />
       <item itemvalue="Spring Boot.SpringBoot02ConfigApplication" />
@@ -337,13 +317,9 @@
       <item itemvalue="Spring Boot.SpringBoot04DataApplication" />
       <item itemvalue="Spring Boot.SpringBoot05SecurityApplication" />
       <item itemvalue="Spring Boot.Shiro02SpringBootApplication" />
-      <item itemvalue="JUnit.Shiro02SpringBootApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.SpringBoot07SwaggerApplication" />
+      <item itemvalue="Spring Boot.SpringBoot08TaskApplication" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.Shiro02SpringBootApplicationTests.contextLoads" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SpringBootOptions">
@@ -444,7 +420,9 @@
       <workItem from="1628499363148" duration="1371000" />
       <workItem from="1628582054233" duration="601000" />
       <workItem from="1628746503022" duration="30586000" />
-      <workItem from="1628911401325" duration="13913000" />
+      <workItem from="1628911401325" duration="14208000" />
+      <workItem from="1629016355854" duration="15754000" />
+      <workItem from="1629078237680" duration="15303000" />
     </task>
     <task id="LOCAL-00001" summary="2021.04.05 18：40">
       <created>1617619251321</created>
@@ -761,7 +739,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626715922554</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="2021.08.14 20：43">
+      <created>1628945077473</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1628945077473</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -822,7 +807,6 @@
       <path value="$PROJECT_DIR$/Vue-cwlin/vue-02/node_modules" />
       <path value="$PROJECT_DIR$/Vue-cwlin/vue-04/node_modules" />
     </ignored-roots>
-    <MESSAGE value="2021.04.23 13：34" />
     <MESSAGE value="2021.04.23 13：35" />
     <MESSAGE value="2021.04.23 17：35" />
     <MESSAGE value="2021.04.23 17：36" />
@@ -847,7 +831,8 @@
     <MESSAGE value="2021.07.19 16：08" />
     <MESSAGE value="2021.07.19 16：09" />
     <MESSAGE value="2021.07.20 01：30" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.07.20 01：30" />
+    <MESSAGE value="2021.08.14 20：43" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.08.14 20：43" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

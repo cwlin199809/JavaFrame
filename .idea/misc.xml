@@ -33,6 +33,8 @@
         <option value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-04-MyBatis/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-05-Security/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-06-Shiro/Shiro-02-SpringBoot/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-07-Swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-08-Task/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
