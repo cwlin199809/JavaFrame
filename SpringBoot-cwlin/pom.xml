@@ -18,6 +18,7 @@
         <module>SpringBoot-06-Shiro</module>
         <module>SpringBoot-07-Swagger</module>
         <module>SpringBoot-08-Task</module>
+        <module>SpringBoot-09-Redis</module>
     </modules>
 
     <properties>

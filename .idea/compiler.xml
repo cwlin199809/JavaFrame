@@ -34,6 +34,7 @@
         <module name="MyBatis-06" />
         <module name="Shiro-01-QuickStart" />
         <module name="MyBatis-07" />
+        <module name="SpringBoot-09-Redis" />
         <module name="MyBatis-08" />
         <module name="SpringBoot-02-Config" />
         <module name="SpringBoot-08-Task" />
@@ -95,6 +96,7 @@
       <module name="SpringBoot-06-Shiro" target="15" />
       <module name="SpringBoot-07-Swagger" target="1.8" />
       <module name="SpringBoot-08-Task" target="1.8" />
+      <module name="SpringBoot-09-Redis" target="1.8" />
       <module name="SpringBoot-cwlin" target="15" />
       <module name="SpringMVC-01-Servlet" target="15" />
       <module name="SpringMVC-02-HelloMVC" target="15" />
