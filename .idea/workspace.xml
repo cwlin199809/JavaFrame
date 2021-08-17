@@ -9,35 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.08.18 03：13">
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/SpringBoot-10-Dubbo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/consumer-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/consumer-server/consumer-server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/consumer-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/consumer-server/src/main/java/com/cwlin/ConsumerServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/consumer-server/src/main/java/com/cwlin/service/TicketService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/consumer-server/src/main/java/com/cwlin/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/consumer-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/consumer-server/src/test/java/com/cwlin/ConsumerServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/jar/dubbo-admin-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/jar/dubbo-governance.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/provider-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/provider-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/provider-server/provider-server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/provider-server/src/main/java/com/cwlin/ProviderServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/provider-server/src/main/java/com/cwlin/service/TicketService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/provider-server/src/main/java/com/cwlin/service/TicketServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/provider-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/provider-server/src/test/java/com/cwlin/ProviderServerApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot-cwlin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot-cwlin/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="83f05dfe-3977-4d5e-9978-95963785626a" name="Default Changelist" comment="2021.08.18 03：14" />
     <list id="03907fb1-3625-4fce-8be1-b56c66946516" name="Maven changelist" comment="Maven changelist">
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_2_6.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_70.xml" afterDir="false" />
@@ -268,7 +240,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ConsumerServerApplicationTests.contextLoads">
+  <component name="RunManager">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -278,22 +250,6 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConsumerServerApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="consumer-server" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cwlin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cwlin" />
-      <option name="MAIN_CLASS_NAME" value="com.cwlin.ConsumerServerApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -411,13 +367,7 @@
       <item itemvalue="Spring Boot.SpringBoot07SwaggerApplication" />
       <item itemvalue="Spring Boot.SpringBoot08TaskApplication" />
       <item itemvalue="Spring Boot.SpringBoot09RedisApplication" />
-      <item itemvalue="JUnit.ConsumerServerApplicationTests.contextLoads" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.ConsumerServerApplicationTests.contextLoads" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SpringBootOptions">
@@ -522,14 +472,7 @@
       <workItem from="1629016355854" duration="15754000" />
       <workItem from="1629078237680" duration="15515000" />
       <workItem from="1629123016468" duration="6159000" />
-      <workItem from="1629203939798" duration="15972000" />
-    </task>
-    <task id="LOCAL-00001" summary="2021.04.05 18：40">
-      <created>1617619251321</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1617619251321</updated>
+      <workItem from="1629203939798" duration="16104000" />
     </task>
     <task id="LOCAL-00002" summary="2021.04.07 02：50">
       <created>1617735113066</created>
@@ -860,7 +803,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629136406103</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="2021.08.18 03：13">
+      <created>1629227621222</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1629227621222</updated>
+    </task>
+    <task id="LOCAL-00050" summary="2021.08.18 03：14">
+      <created>1629227692696</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1629227692697</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -921,7 +878,6 @@
       <path value="$PROJECT_DIR$/Vue-cwlin/vue-02/node_modules" />
       <path value="$PROJECT_DIR$/Vue-cwlin/vue-04/node_modules" />
     </ignored-roots>
-    <MESSAGE value="2021.05.16 00：32" />
     <MESSAGE value="2021.05.16 00：34" />
     <MESSAGE value="2021.05.18 01：13" />
     <MESSAGE value="2021.05.18 01：16 SSM框架结束" />
@@ -946,7 +902,8 @@
     <MESSAGE value="2021.08.16 15：05" />
     <MESSAGE value="2021.08.17 01：52" />
     <MESSAGE value="2021.08.18 03：13" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.08.18 03：13" />
+    <MESSAGE value="2021.08.18 03：14" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.08.18 03：14" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
