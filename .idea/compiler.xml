@@ -17,6 +17,7 @@
         <module name="Spring-07-AppConfig" />
         <module name="SpringMVC-01-Servlet" />
         <module name="MyBatis-01" />
+        <module name="consumer-server" />
         <module name="MyBatis-02" />
         <module name="SpringMVC-05-JSON" />
         <module name="MyBatis-03" />
@@ -40,6 +41,7 @@
         <module name="SpringBoot-08-Task" />
         <module name="MyBatis-09" />
         <module name="SpringMVC-04-Controller" />
+        <module name="provider-server" />
         <module name="SpringMVC-03-Annotation" />
         <module name="SpringMVC-06-Ajax" />
         <module name="Spring-02-HelloSpring" />
@@ -48,6 +50,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="consumer-server" target="1.8" />
       <module name="Cookie_Session-cwlin" target="1.5" />
       <module name="Filter" target="15" />
       <module name="Filter-cwlin" target="15" />
@@ -65,6 +68,7 @@
       <module name="MyBatis-09" target="15" />
       <module name="MyBatis-cwlin" target="15" />
       <module name="Mybatis-cwlin" target="15" />
+      <module name="provider-server" target="1.8" />
       <module name="request" target="1.7" />
       <module name="response" target="1.7" />
       <module name="Servlet-01" target="1.7" />
@@ -97,6 +101,7 @@
       <module name="SpringBoot-07-Swagger" target="1.8" />
       <module name="SpringBoot-08-Task" target="1.8" />
       <module name="SpringBoot-09-Redis" target="1.8" />
+      <module name="SpringBoot-10-Dubbo" target="1.8" />
       <module name="SpringBoot-cwlin" target="15" />
       <module name="SpringMVC-01-Servlet" target="15" />
       <module name="SpringMVC-02-HelloMVC" target="15" />

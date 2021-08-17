@@ -35,6 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-07-Swagger/SpringBoot-07-Swagger.iml" filepath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-07-Swagger/SpringBoot-07-Swagger.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-08-Task/SpringBoot-08-Task.iml" filepath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-08-Task/SpringBoot-08-Task.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-09-Redis/SpringBoot-09-Redis.iml" filepath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-09-Redis/SpringBoot-09-Redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/SpringBoot-10-Dubbo.iml" filepath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/SpringBoot-10-Dubbo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-cwlin.iml" filepath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-cwlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-01-Servlet/SpringMVC-01-Servlet.iml" filepath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-01-Servlet/SpringMVC-01-Servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/SpringMVC-02-HelloMVC.iml" filepath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-02-HelloMVC/SpringMVC-02-HelloMVC.iml" />
@@ -46,6 +47,8 @@
       <module fileurl="file://$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-08-File/SpringMVC-08-File.iml" filepath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-08-File/SpringMVC-08-File.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-cwlin.iml" filepath="$PROJECT_DIR$/SpringMVC-cwlin/SpringMVC-cwlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vue-cwlin/Vue-cwlin.iml" filepath="$PROJECT_DIR$/Vue-cwlin/Vue-cwlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/consumer-server/consumer-server.iml" filepath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/consumer-server/consumer-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/provider-server/provider-server.iml" filepath="$PROJECT_DIR$/SpringBoot-cwlin/SpringBoot-10-Dubbo/provider-server/provider-server.iml" />
     </modules>
   </component>
 </project>
